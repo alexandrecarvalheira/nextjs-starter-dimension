@@ -1,5 +1,7 @@
 import Head from "next/head"
 import stylesheet from 'styles/main.scss'
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 import Header from "../components/Header"
 import Main from "../components/Main"
